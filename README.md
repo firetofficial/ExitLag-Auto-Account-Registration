@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 > **Warning**
 > Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 
@@ -29,7 +29,7 @@ The process begins by utilizing the [Mail.GW](https://mail.gw/) service to obtai
 
 First, clone this repository:
 ```shell
-git clone https://github.com/qing762/exitLag-auto-signup/
+git clone https://github.com/firetofficial/ExitLag-Auto-Account-Registration
 ```
 Install [Google Chrome](https://google.com/chrome/) (IMPORTANT!)
 ```shell
@@ -48,8 +48,6 @@ python main.py
 
 And you're all set! Follow the instructions while interacting with the Python file.
 
-## Known issues
-[Here are a list of known issues and on how you can fix it](https://github.com/qing762/exitlag-auto-signup/discussions/4)
 
 ## Contributing
 
@@ -60,10 +58,5 @@ To contribute, fork this repository and improve it. After that, press the contri
 
 ## Feedback / Issues / Request for takedown
 
-If you have any feedback or issues running the code, please reach out to me at [Discord/qing762](https://discord.com/users/635765555277725696)
+If you have any feedback or issues running the code, please reach out to me at [Tele: @firet_official](https://t.me/firet_official)
 
-
-=======
-# ExitLag-Auto-Account-Registration
-This repository contains a Python tool that automates the process of creating an ExitLag account using a temporary email address. It leverages Selenium for web automation and interacts with the Mail.GW service to fetch temporary email addresses.
->>>>>>> 4a63ad52669b3bcdcb7f84de5dc478fe0ca7cff4
