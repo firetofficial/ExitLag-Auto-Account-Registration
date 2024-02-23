@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 > **Warning**
 > Please be advised that usage of this tool is entirely at your own risk. I assumes no responsibility for any adverse consequences that may arise from its use, and users are encouraged to exercise caution and exercise their own judgment in utilizing this tool.
 
@@ -62,3 +63,7 @@ To contribute, fork this repository and improve it. After that, press the contri
 If you have any feedback or issues running the code, please reach out to me at [Discord/qing762](https://discord.com/users/635765555277725696)
 
 
+=======
+# ExitLag-Auto-Account-Registration
+This repository contains a Python tool that automates the process of creating an ExitLag account using a temporary email address. It leverages Selenium for web automation and interacts with the Mail.GW service to fetch temporary email addresses.
+>>>>>>> 4a63ad52669b3bcdcb7f84de5dc478fe0ca7cff4
